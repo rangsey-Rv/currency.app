@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 💱 currency.app
 
 A simple and intuitive web-based currency converter that allows users to convert amounts between different currencies in real-time.
@@ -68,4 +68,4 @@ Contributions are welcome! If you have suggestions or improvements:
 This project is open-source and available under the [MIT License](LICENSE).
 =======
 💱 currency.app
->>>>>>> 44f8e93f026746def184261700334acb3b047f94
+
