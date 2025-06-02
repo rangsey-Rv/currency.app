@@ -3,14 +3,6 @@
 
 A simple and intuitive web-based currency converter that allows users to convert amounts between different currencies in real-time.
 
-## 🌐 Live Demo
-
-*Coming Soon*
-
-## 📸 Screenshots
-
-*Add screenshots here to showcase the application's interface.*
-
 ## 🚀 Features
 
 * **Real-Time Conversion**: Convert amounts between various currencies instantly.
@@ -65,7 +57,4 @@ Contributions are welcome! If you have suggestions or improvements:
 
 ## 📄 License
 
-This project is open-source and available under the [MIT License](LICENSE).
-=======
-💱 currency.app
-
+This project is open-source for you!!!
