@@ -11,8 +11,8 @@ A simple and intuitive web-based currency converter that allows users to convert
 
 ## 🛠️ Technologies Used
 
-* **HTML5**: Structuring the web content.
-* **CSS3**: Styling the application.
+* **HTML**: Structuring the web content.
+* **CSS**: Styling the application.
 * **JavaScript**: Implementing dynamic functionalities.
 
 ## 📂 Project Structure
